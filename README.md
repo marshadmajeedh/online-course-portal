@@ -15,9 +15,3 @@ A Java application simulating an online learning platform using OOP concepts:
 
 ## Technologies
 - Java
-- CLI-based
-
-## How to Run
-```bash
-javac *.java
-java OnlineCoursePortal
